@@ -2925,6 +2925,7 @@
 <http://dbpedia.org/ontology/Mountain> <http://www.w3.org/2000/01/rdf-schema#label> "mountain"@en .
 <http://dbpedia.org/ontology/Mountain> <http://www.w3.org/2000/01/rdf-schema#label> "\uC0B0"@ko .
 <http://dbpedia.org/ontology/Mountain> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://dbpedia.org/ontology/NaturalPlace> .
+<http://dbpedia.org/ontology/Mountain> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://dbpedia.org/ontology/Place> .
 <http://dbpedia.org/ontology/Mountain> <http://www.w3.org/2002/07/owl#equivalentClass> <http://schema.org/Mountain> .
 <http://dbpedia.org/ontology/Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://dbpedia.org/ontology/Cave> <http://www.w3.org/2000/01/rdf-schema#label> "H\u00F6hle"@de .
